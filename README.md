@@ -86,6 +86,8 @@ It's easy! Simply activate snippets by typing a mnemonic followed by TAB.
   state→  this.state.
   
     sfc→  const RecordName = () => <div></div>
+    
+    cn→   constuctor(props) { super(props); this.state = {} }
 
 ```
 
