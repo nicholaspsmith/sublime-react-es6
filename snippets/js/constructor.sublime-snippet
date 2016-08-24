@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+import React from 'react';
+constructor(props) {
+  super(props);
+  
+  this.state = {
+  };
+}
+]]></content>
+    <tabTrigger>cn</tabTrigger>
+    <scope>source.js</scope>
+    <description>React: constructor</description>
+</snippet>
